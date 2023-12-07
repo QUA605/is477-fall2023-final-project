@@ -1,0 +1,18 @@
+{
+    "title": "is477-fall2023-final-project",
+    "description": "analysis on wine quality dataset",
+    "creators":[
+        {"name": "Meng, Ethan",
+         "orcid": "0009-0009-1966-2438"}
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.24432/C56S3T",
+            "relation": "cites"
+        }
+    ],
+    "access_right": "open",
+    "upload_type": "software",
+    "license": "MIT"
+}
