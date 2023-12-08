@@ -86,7 +86,6 @@ def create_simple_visualization(df1, df2, field):
 def main():
     create_results_directory()
 
-    # Change the file path to your dataset
     file_path1 = 'data/winequality-red.csv'
     df1 = load_dataset(file_path1)
 
